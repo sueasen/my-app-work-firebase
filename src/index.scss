@@ -1,0 +1,9 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+$font-families: BlinkMacSystemFont,Roboto,"Segoe UI","Helvetica Neue",HelveticaNeue,YuGothic,"Yu Gothic Medium","Yu Gothic",Verdana,Meiryo,sans-serif;
+
+body {
+  font-family: $font-families;
+}
